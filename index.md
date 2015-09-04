@@ -32,7 +32,7 @@ title: 컴퓨터와 컴퓨팅 사고력
 ## Topics
 
 1.  [컴퓨팅 사고력과 소프트웨어 교육](ct-korea.html)
-2.  [한국인을 위한 소프트웨어 교육(준비 중)](ct-software.html)
+2.  [이제 글을 쓰는 것은 소프트웨어 개발이다!](ct-writing.html)
 
 ## 참고자료
 

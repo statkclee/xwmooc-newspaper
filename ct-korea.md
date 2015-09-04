@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 컴퓨터 사고력과 소프트웨어 교육
+title: 컴퓨팅 사고력과 소프트웨어 교육
 ---
 
 2010년 들어 가장 부각되고 있는 교육 중 하나가 소프트웨어 교육이다. [SXSW](http://www.sxsw.com/) 2010년 행사에서 이미 [Douglas Rushkoff](http://www.youtube.com/watch?v=imV3pPIUy1k)는 `프로그래밍 하느냐 프로그래밍 되느냐(Program or be Programmed)`하는 세상으로 변해왔고 앞으로 그렇게 될 것이라고 확신에 찬 주장을 했다. 컴퓨터를 이해하지 않고 현재와 미래를 살아가는 것은 마치 산업화 시대에 글과 숫자를 이해하지 못하고 산업화시대를 살아간 것에 비견될 수 있다.
